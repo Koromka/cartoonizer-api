@@ -1,2 +1,2 @@
-# Sample predict.py
-print('Cartoonizer loaded')
+# Placeholder for cartoonizer logic
+print('Cartoonizer running')

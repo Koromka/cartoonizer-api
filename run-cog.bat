@@ -1,0 +1,6 @@
+@echo off
+echo Logging into Replicate...
+cog.exe login
+echo Now pushing model...
+cog.exe push r8.im/koromka/cartoonizer-api
+pause
